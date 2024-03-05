@@ -1,7 +1,7 @@
 
 Hi, I’m Bayram Furkan İrioğlu
 I’m interested in Mobile Development and Applications
-- Android Studio Kotlin
+- Kotlin
 - Flutter
 - furrkanirioglu@gmail.com
 - Ztree Experiment
@@ -10,6 +10,10 @@ I’m interested in Mobile Development and Applications
 - Net Core MVC
 - Java
 - Firebase
+- Database Managment (SQL)
+- Backend
+- 
+- 
   
 
 
