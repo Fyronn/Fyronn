@@ -4,14 +4,12 @@ I’m interested in Mobile Development and Applications
 - Kotlin
 - Flutter
 - furrkanirioglu@gmail.com
-- Ztree Experiment
-- c++ Data Structer
-- Next.js
+- Ztree Experiment Designer
+- Next.js 
 - Net Core MVC
-- Java
 - Firebase
 - Database Managment (SQL)
-- Backend
+- Node.js
 - 
 - 
   
